@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👩🏼‍💻 A Software Engineer with 3+ years of project based experience
+- 👩🏼‍💻 A Software Engineer with 4+ years of project based experience
 - 👩🏻‍🎓 A Final Year Computing Student at **[University of Greenwich](https://www.gre.ac.uk/)**
 
 ---
