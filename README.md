@@ -1,38 +1,39 @@
-# 👋 Hi, I'm Aye Chan Htun Naing @ Chan
+# 👋 Hi, I'm Aye Chan Htun Naing (@Chan)
 
-**Software Engineer** | **born in Yangon, Myanmar**  
-**[Website](https://peacechan.dev)** | **[LinkedIn](https://www.linkedin.com/in/ayechanhtunnaing)** | **[Facebook](https://facebook.com/achn.peacechan)**
-
----
-
-## About Me
-
-- 👩🏼‍💻 A Software Engineer with 4+ years of project based experience
-- 👩🏻‍🎓 A Final Year Computing Student at **[University of Greenwich](https://www.gre.ac.uk/)**
+**Software Engineer** | **Born in Yangon, Myanmar**  
+🌐 [Website](https://peacechan.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/ayechanhtunnaing) | 📘 [Facebook](https://facebook.com/achn.peacechan)
 
 ---
 
-## Skills
+## 👩‍💻 About Me
 
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, Vue.js
-- **Backend:** Java, Spring MVC, Spring Boot
-- **Mobile:** Flutter
-- **Database:** MySQL, Oracle SQL
-- **Cloud:** AWS
-- **Version Control:** Git
+- Software Engineer with **5+ years of project-based experience**  
+- 🎓 Graduated from [University of Greenwich](https://www.gre.ac.uk/)  
+- 📚 Currently pursuing **Master of Science in Information Technology (MSIT)**  
 
 ---
 
-## Facts
+## 🛠️ Skills
 
-- 🔭 I’m currently working on improving my skills in Spring Boot and Vue.js.
-- 🌱 I’m currently learning advanced database solutions and cloud services with AWS.
-- 👯 I’m looking to collaborate on open-source projects related to java web development.
-- 🤔 I’m looking for help with mastering cloud technologies.
-- 💬 Ask me about basic web development, Java, and Vue.js.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am an emotional girl :3
+- **Frontend:** JavaScript, TypeScript, React.js  
+- **Backend:** Java, Spring MVC, Spring Boot  
+- **Mobile:** Flutter  
+- **Database:** MySQL, Oracle SQL  
+- **Cloud:** AWS  
+- **Version Control:** Git  
 
 ---
 
-Feel free to reach out to me at [Email](mailto:achn.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ayechanhtunnaing).
+## 📌 Facts
+
+- 🔭 Improving skills in **Spring Boot** and **React.js**  
+- 🌱 Currently learning **Machine Learning**  
+- 👯 Looking to collaborate on **open-source Java web development projects**  
+- 🤔 Open to help and guidance in **Machine Learning**  
+- 💬 Ask me about **basic web development** and **Java**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: *I am an emotional girl :3*  
+
+---
+
+📫 Feel free to reach out at [achn@peacechan.dev](mailto:achn@peacechan.dev) or connect on [LinkedIn](https://www.linkedin.com/in/ayechanhtunnaing).
