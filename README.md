@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-- Software Engineer with **5+ years of project-based experience**  
+- 💻 Software Engineer with **5+ years of project-based experience**  
 - 🎓 Graduated from [University of Greenwich](https://www.gre.ac.uk/)  
 - 📚 Currently pursuing **Master of Science in Information Technology (MSIT)**  
 
